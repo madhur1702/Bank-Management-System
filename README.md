@@ -1,4 +1,4 @@
-# 💻 **Bank Management System**
+<h1 align="center">💻 Bank Management System 💻</h1>
 
 A simple, console-based Bank Management System implemented in **C++** to manage bank accounts with features like account creation, deposits, withdrawals, modifications, and deletions.
 
